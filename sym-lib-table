@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri "C:/Users/sq373/Desktop/kicad libraries/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/sq373/Desktop/kicad libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/sq373/Desktop/kicad libraries/random-keyboard-parts.pretty-master/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)

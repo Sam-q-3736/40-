@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri "C:/Users/sq373/Desktop/kicad libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "C:/Users/sq373/Desktop/kicad libraries/random-keyboard-parts.pretty-master/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name MX-Alps_Switch_Cutouts)(type KiCad)(uri "C:/Users/sq373/Desktop/kicad libraries/Keebio-Parts.pretty-master/Keebio-Parts.pretty-master/MX-Alps_Switch_Cutouts")(options "")(descr ""))
+)
